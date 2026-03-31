@@ -60,6 +60,7 @@ The dataset includes key business fields such as:
 This dashboard enables quick and effective analysis of sales data, helping businesses improve performance, optimize strategies, and identify growth opportunities.
 
 ---
+<img width="1007" height="577" alt="Screenshot 2026-03-31 183649" src="https://github.com/user-attachments/assets/7b014eaa-7c39-46b1-894b-a4bca011ebf6" />
 
 <img width="1007" height="579" alt="Screenshot 2026-03-31 183713" src="https://github.com/user-attachments/assets/8ed24e8b-4685-4ea1-8cf1-1b5729a42652" />
 
